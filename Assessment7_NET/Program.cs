@@ -1,7 +1,13 @@
+using Assessment7_NET.Models;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<SamuelchamizodatabaseContext>(options =>
+       options.UseSqlServer(builder.Configuration.GetConnectionString("Conexion")));
 
 var app = builder.Build();
 

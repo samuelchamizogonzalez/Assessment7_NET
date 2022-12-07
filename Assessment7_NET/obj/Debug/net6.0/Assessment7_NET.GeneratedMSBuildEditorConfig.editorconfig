@@ -9,37 +9,97 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Assessment7_NET
 build_property.RootNamespace = Assessment7_NET
-build_property.ProjectDir = C:\Users\Samuel.Chamizo\Documents\Assessment7_NET\Assessment7_NET\
+build_property.ProjectDir = C:\Users\Samuel.Chamizo\Documents\Repositorio_github\Assessment7_NET\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Samuel.Chamizo\Documents\Assessment7_NET\Assessment7_NET
+build_property.MSBuildProjectDirectory = C:\Users\Samuel.Chamizo\Documents\Repositorio_github\Assessment7_NET
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Samuel.Chamizo/Documents/Assessment7_NET/Assessment7_NET/Views/Home/Index.cshtml]
+[C:/Users/Samuel.Chamizo/Documents/Repositorio_github/Assessment7_NET/Views/Claims/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel.Chamizo/Documents/Repositorio_github/Assessment7_NET/Views/Claims/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel.Chamizo/Documents/Repositorio_github/Assessment7_NET/Views/Claims/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel.Chamizo/Documents/Repositorio_github/Assessment7_NET/Views/Claims/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel.Chamizo/Documents/Repositorio_github/Assessment7_NET/Views/Claims/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel.Chamizo/Documents/Repositorio_github/Assessment7_NET/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samuel.Chamizo/Documents/Assessment7_NET/Assessment7_NET/Views/Home/Privacy.cshtml]
+[C:/Users/Samuel.Chamizo/Documents/Repositorio_github/Assessment7_NET/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samuel.Chamizo/Documents/Assessment7_NET/Assessment7_NET/Views/Shared/Error.cshtml]
+[C:/Users/Samuel.Chamizo/Documents/Repositorio_github/Assessment7_NET/Views/Owners/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel.Chamizo/Documents/Repositorio_github/Assessment7_NET/Views/Owners/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel.Chamizo/Documents/Repositorio_github/Assessment7_NET/Views/Owners/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel.Chamizo/Documents/Repositorio_github/Assessment7_NET/Views/Owners/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel.Chamizo/Documents/Repositorio_github/Assessment7_NET/Views/Owners/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel.Chamizo/Documents/Repositorio_github/Assessment7_NET/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samuel.Chamizo/Documents/Assessment7_NET/Assessment7_NET/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Samuel.Chamizo/Documents/Repositorio_github/Assessment7_NET/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samuel.Chamizo/Documents/Assessment7_NET/Assessment7_NET/Views/_ViewImports.cshtml]
+[C:/Users/Samuel.Chamizo/Documents/Repositorio_github/Assessment7_NET/Views/Vehicles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel.Chamizo/Documents/Repositorio_github/Assessment7_NET/Views/Vehicles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel.Chamizo/Documents/Repositorio_github/Assessment7_NET/Views/Vehicles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel.Chamizo/Documents/Repositorio_github/Assessment7_NET/Views/Vehicles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel.Chamizo/Documents/Repositorio_github/Assessment7_NET/Views/Vehicles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel.Chamizo/Documents/Repositorio_github/Assessment7_NET/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samuel.Chamizo/Documents/Assessment7_NET/Assessment7_NET/Views/_ViewStart.cshtml]
+[C:/Users/Samuel.Chamizo/Documents/Repositorio_github/Assessment7_NET/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Samuel.Chamizo/Documents/Assessment7_NET/Assessment7_NET/Views/Shared/_Layout.cshtml]
+[C:/Users/Samuel.Chamizo/Documents/Repositorio_github/Assessment7_NET/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dl1yvjurwx
