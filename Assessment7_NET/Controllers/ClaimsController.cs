@@ -19,10 +19,17 @@ namespace Assessment7_NET.Controllers
         }
 
         // GET: Claims
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(String vin)
         {
-            var samuelchamizodatabaseContext = _context.Claims.Include(c => c.IdVehicleNavigation);
-            return View(await samuelchamizodatabaseContext.ToListAsync());
+            var claims = from Claim in _context.Claims select Claim;
+
+            if (!String.IsNullOrEmpty(vin))
+            {
+                claims = claims.Where(s => s.IdVehicleNavigation.Vin.Contains(vin)).Include(v => (v.IdVehicleNavigation));
+                return View(claims);
+            }
+
+            return View(await claims.ToListAsync());
         }
 
         // GET: Claims/Details/5
